@@ -1,0 +1,14 @@
+{
+  "name": "dogukanp-gcts",
+  "version": "1.0.0",
+  "description": "DogukanP-gCTS",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
